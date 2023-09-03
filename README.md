@@ -1,4 +1,16 @@
-# Module-Test-1
+AccioJob Portal Clone
+This project is a clone of the AccioJob Portal, created using HTML, CSS, and Bootstrap. It serves as a platform for job seekers and employers to connect. Key features include:
+
+User-friendly job search and application process.
+Employer profiles and job postings.
+Interactive user interface with responsive design.
+Project Screenshot:
+![Screenshot 2023-09-03 234447](https://github.com/NikhilPeddireddy/Module-Test-1/assets/139708292/09b10c9c-78cf-448b-8638-16652ffbeb83)
+![Screenshot 2023-09-03 234545](https://github.com/NikhilPeddireddy/Module-Test-1/assets/139708292/5876d11d-5257-48ff-b380-7af906d0da4f)
+![Screenshot 2023-09-03 234527](https://github.com/NikhilPeddireddy/Module-Test-1/assets/139708292/137db758-8604-4346-9c82-3b31b5bedbbf)
+![Screenshot 2023-09-03 234611](https://github.com/NikhilPeddireddy/Module-Test-1/assets/139708292/26da7101-2356-4a80-9e65-a8f773a97beb)
+
+
 ![image](https://github.com/NikhilPeddireddy/F1-Module/assets/139708292/56bdc9bb-301b-4937-901b-b6a4b7512510)
 ![image](https://github.com/NikhilPeddireddy/F1-Module/assets/139708292/86893253-628a-44ce-b4ea-d3f782a90b41)
 ![image](https://github.com/NikhilPeddireddy/F1-Module/assets/139708292/cbad2860-a8fd-4c57-a758-d0e6db8ea76c)
