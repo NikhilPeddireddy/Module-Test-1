@@ -1,9 +1,10 @@
 AccioJob Portal Clone
+
 This project is a clone of the AccioJob Portal, created using HTML, CSS, and Bootstrap. It serves as a platform for job seekers and employers to connect. Key features include:
 
-User-friendly job search and application process.
-Employer profiles and job postings.
-Interactive user interface with responsive design.
+ User-friendly job search and application process,
+Employer profiles and job postings,
+Interactive user interface with responsive design,
 Project Screenshot:
 ![Screenshot 2023-09-03 234447](https://github.com/NikhilPeddireddy/Module-Test-1/assets/139708292/09b10c9c-78cf-448b-8638-16652ffbeb83)
 ![Screenshot 2023-09-03 234545](https://github.com/NikhilPeddireddy/Module-Test-1/assets/139708292/5876d11d-5257-48ff-b380-7af906d0da4f)
